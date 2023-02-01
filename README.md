@@ -1,2 +1,1 @@
-# rng
-Random Number Generator in Python
+# Random Number Generator
